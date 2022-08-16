@@ -1,0 +1,12 @@
+C:\botcamp\appDavivienda\DaviviendaBack\Core\bin\Debug\net6.0\Core.deps.json
+C:\botcamp\appDavivienda\DaviviendaBack\Core\bin\Debug\net6.0\Core.dll
+C:\botcamp\appDavivienda\DaviviendaBack\Core\bin\Debug\net6.0\ref\Core.dll
+C:\botcamp\appDavivienda\DaviviendaBack\Core\bin\Debug\net6.0\Core.pdb
+C:\botcamp\appDavivienda\DaviviendaBack\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\botcamp\appDavivienda\DaviviendaBack\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\botcamp\appDavivienda\DaviviendaBack\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\botcamp\appDavivienda\DaviviendaBack\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\botcamp\appDavivienda\DaviviendaBack\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\botcamp\appDavivienda\DaviviendaBack\Core\obj\Debug\net6.0\Core.dll
+C:\botcamp\appDavivienda\DaviviendaBack\Core\obj\Debug\net6.0\ref\Core.dll
+C:\botcamp\appDavivienda\DaviviendaBack\Core\obj\Debug\net6.0\Core.pdb

@@ -1,0 +1,17 @@
+C:\botcamp\appDavivienda\DaviviendaBack\Infraestructura\bin\Debug\net6.0\Infraestructura.deps.json
+C:\botcamp\appDavivienda\DaviviendaBack\Infraestructura\bin\Debug\net6.0\Infraestructura.runtimeconfig.json
+C:\botcamp\appDavivienda\DaviviendaBack\Infraestructura\bin\Debug\net6.0\Infraestructura.dll
+C:\botcamp\appDavivienda\DaviviendaBack\Infraestructura\bin\Debug\net6.0\ref\Infraestructura.dll
+C:\botcamp\appDavivienda\DaviviendaBack\Infraestructura\bin\Debug\net6.0\Infraestructura.pdb
+C:\botcamp\appDavivienda\DaviviendaBack\Infraestructura\bin\Debug\net6.0\Core.dll
+C:\botcamp\appDavivienda\DaviviendaBack\Infraestructura\bin\Debug\net6.0\Core.pdb
+C:\botcamp\appDavivienda\DaviviendaBack\Infraestructura\obj\Debug\net6.0\Infraestructura.csproj.AssemblyReference.cache
+C:\botcamp\appDavivienda\DaviviendaBack\Infraestructura\obj\Debug\net6.0\Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\botcamp\appDavivienda\DaviviendaBack\Infraestructura\obj\Debug\net6.0\Infraestructura.AssemblyInfoInputs.cache
+C:\botcamp\appDavivienda\DaviviendaBack\Infraestructura\obj\Debug\net6.0\Infraestructura.AssemblyInfo.cs
+C:\botcamp\appDavivienda\DaviviendaBack\Infraestructura\obj\Debug\net6.0\Infraestructura.csproj.CoreCompileInputs.cache
+C:\botcamp\appDavivienda\DaviviendaBack\Infraestructura\obj\Debug\net6.0\Infraestructura.csproj.CopyComplete
+C:\botcamp\appDavivienda\DaviviendaBack\Infraestructura\obj\Debug\net6.0\Infraestructura.dll
+C:\botcamp\appDavivienda\DaviviendaBack\Infraestructura\obj\Debug\net6.0\ref\Infraestructura.dll
+C:\botcamp\appDavivienda\DaviviendaBack\Infraestructura\obj\Debug\net6.0\Infraestructura.pdb
+C:\botcamp\appDavivienda\DaviviendaBack\Infraestructura\obj\Debug\net6.0\Infraestructura.genruntimeconfig.cache
