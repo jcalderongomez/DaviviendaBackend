@@ -30,22 +30,15 @@ namespace API.Controllers
         public async Task<ActionResult<Venta>> GetVenta(int id){
             var venta = await _db.Venta.FindAsync(id);
             _response.Resultado = venta;
-            _response.Mensaje = "Datos del venta " + venta?.Id;
+            _response.Mensaje = "Datos de la venta" + venta?.Id;
             return Ok(_response); // Status code = 200
         }
 
         [HttpPost]
         public async Task<ActionResult<Venta>> PostVenta([FromBody] Venta venta){
-            if(ModelState.IsValid){
-                await _db.Venta.AddAsync(venta);
-                await _db.SaveChangesAsync();
-                return CreatedAtRoute("GetVenta", new {id = venta.Id}, venta); //Status Code = 201
-            }
-            else{   
-                return BadRequest();
-            }
-
-            
+            await _db.Venta.AddAsync(venta);
+            await _db.SaveChangesAsync();
+            return CreatedAtRoute("GetVenta", new {id = venta.Id}, venta); //Status Code = 201
         }
 
         [HttpPut("{id}")]
